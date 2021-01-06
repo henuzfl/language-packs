@@ -3822,3 +3822,20 @@ msgstr "更改界面语言？"
 #: packages/translation-extension/src/index.ts:173
 msgid "Are you sure you want to refresh?"
 msgstr "您确定要刷新吗？"
+
+#: packages/running-extension/src/opentabs.ts:94
+msgid "Close"
+msgstr "关闭"
+
+#: packages/running-extension/src/opentabs.ts:95
+msgid "Close All"
+msgstr "全部关闭"
+
+
+#: packages/running-extension/src/opentabs.ts:97
+msgid "Are you sure you want to close all open tabs?"
+msgstr "您确定要关闭所有打开的标签页吗？"
+
+#: packages/running-extension/src/kernels.ts:45
+msgid "Are you sure you want to permanently shut down all running kernels?"
+msgstr "您去定要永久终止所有正在运行的内核吗？"
